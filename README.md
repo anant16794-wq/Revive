@@ -1,1 +1,2 @@
 # Revive
+Revive is the companion of all your waste management and community needs. It helps you to organise and manage your waste and reinforces the importance of recycling with the help of exciting rewards, a competitive leaderboard, recycling streaks, and badges. It also provides spatialized dashboards for garbage collectors and municipal officers with a QR scanner for transparency. It helps communities to form and organise events and send notifications to the user. 
